@@ -1,5 +1,5 @@
-"Initial state"
-"new changes made to the document"
+"Initial state" 
+"new changes made to the document is made by george"
 <<<<<<< HEAD
 "Another change made to the document" 
 =======
